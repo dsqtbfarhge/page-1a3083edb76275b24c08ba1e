@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "bdcfc7389e28dc04ea11a99c",
+  "owner": "dsqtbfarhge",
+  "repo": "page-1a3083edb76275b24c08ba1e",
+  "title": "Eueu加速全世界(Eueu)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1a3083edb76275b24c08ba1e",
+      "a": "Eueu加速全世界(Eueu)",
+      "b": "",
+      "entity": "Eueu加速全世界(Eueu)",
+      "brand": "Eueu加速全世界(Eueu)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c861f83393ea5933fc2cbdc801497e7b1749e544913e9d00fee075c6ab52f276",
+      "content": {
+        "keyword1": "Eueu加速全世界(Eueu)",
+        "keyword2": "",
+        "primary_entity": "Eueu加速全世界(Eueu)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Eueu加速全世界(Eueu) 提供冷静克制的专线网络连接与多端路由优化说明，为严谨的数字生活与跨域协作提供确定性路径。",
+          "AI_DESCRIPTION": "Eueu加速全世界(Eueu) 提供冷静克制的专线网络连接与多端路由优化说明，为严谨的数字生活与跨域协作提供确定性路径。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg: #1e2229;--panel: #272c35;--text: #c2c7d0;--heading: #f0f3f6;--accent: #00bcd4;--accent-dim: rgba(0, 188, 212, 0.15);--border: #363e4b;--font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;--font-sans: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg);color: var(--text);font-family: var(--font-sans);line-height: 1.7;font-size: 15px}\na {color: inherit;text-decoration: none}\nheader.top-nav {position: fixed;top: 0;left: 0;right: 0;height: 48px;background-color: rgba(30, 34, 41, 0.95);border-bottom: 1px solid var(--border);display: flex;align-items: center;justify-content: space-between;padding: 0 2rem;z-index: 100;font-family: var(--font-mono);font-size: 13px}\nheader.top-nav .brand-sig {color: var(--heading);font-weight: 700;letter-spacing: 0.05em}\nheader.top-nav nav a {margin-left: 1.5rem;color: var(--text);transition: color 0.2s}\nheader.top-nav nav a:hover {color: var(--accent)}\n\nmain {max-width: 1100px;margin: 80px auto 4rem;padding: 0 1.5rem}\n\n/* Hero: 3 杂志式多栏网格配引言 */\n.hero-magazine {display: grid;grid-template-columns: 2fr 1fr;gap: 3rem;padding: 4rem 0 3rem;border-bottom: 1px solid var(--border);align-items: start}\n@media (max-width: 768px) {\n  .hero-magazine {grid-template-columns: 1fr;gap: 2rem}\n}\n.hero-main h1 {font-size: 2.75rem;color: var(--heading);font-weight: 800;line-height: 1.2;margin-bottom: 1.5rem;letter-spacing: -0.02em}\n.hero-quote {font-family: var(--font-mono);font-size: 0.95rem;color: var(--accent);border-left: 2px solid var(--accent);padding-left: 1rem;margin-top: 2rem}\n.hero-sidebar {background-color: var(--panel);padding: 2rem;border-radius: 4px;font-family: var(--font-mono);font-size: 0.85rem}\n.hero-sidebar h3 {color: var(--heading);font-size: 1rem;margin-bottom: 1rem;text-transform: uppercase;letter-spacing: 0.05em}\n.hero-sidebar ul {list-style: none}\n.hero-sidebar li {padding: 0.5rem 0;border-bottom: 1px dashed var(--border);display: flex;justify-content: space-between}\n.hero-sidebar li:last-child {border-bottom: none}\n\nsection {padding: 4rem 0;border-bottom: 1px solid var(--border)}\nsection:last-of-type {border-bottom: none}\n\nh2 {font-size: 1.75rem;color: var(--heading);margin-bottom: 1.5rem;font-weight: 700;letter-spacing: -0.01em}\np {margin-bottom: 1.25rem}\n\n/* 规整的网格说明区块 */\n.specs-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 2.5rem;margin-top: 2rem}\n.spec-card {padding: 1.5rem 0}\n.spec-card h3 {color: var(--heading);font-size: 1.15rem;margin-bottom: 0.75rem;font-family: var(--font-mono)}\n\n/* 2 纵向列表逐行展开 套餐展示 */\n.plans-list {display: flex;flex-direction: column;gap: 1.5rem;margin-top: 2rem}\n.plan-row {background-color: var(--panel);padding: 2rem;display: grid;grid-template-columns: 200px 1fr auto;gap: 2rem;align-items: center;border-radius: 4px;border-left: 4px solid transparent}\n.plan-row.featured {border-left-color: var(--accent);background-color: #232a35}\n@media (max-width: 768px) {\n  .plan-row {grid-template-columns: 1fr;gap: 1rem}\n}\n.plan-info h3 {color: var(--heading);font-size: 1.25rem;margin-bottom: 0.25rem}\n.plan-price {font-family: var(--font-mono);font-size: 1.5rem;color: var(--accent);font-weight: 700}\n.plan-price-annual {font-size: 0.85rem;color: var(--text);opacity: 0.8}\n.plan-features {list-style: none;font-size: 0.95rem}\n.plan-features li {margin-bottom: 0.35rem;display: inline-block;margin-right: 1.5rem}\n.plan-features li::before {content: \"— \";color: var(--accent)}\n.plan-action {font-family: var(--font-mono);font-size: 0.85rem;padding: 0.75rem 1.5rem;background-color: var(--accent-dim);color: var(--accent);border: 1px solid var(--accent);text-align: center;border-radius: 2px;display: inline-block}\n\n/* 客户端下载与使用指引 */\n.clients-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));gap: 1.5rem;margin-top: 2rem}\n.client-box {background-color: var(--panel);padding: 1.5rem;border-radius: 4px}\n.client-box h3 {color: var(--heading);font-size: 1.1rem;margin-bottom: 0.5rem}\n.client-box p {font-size: 0.9rem;margin-bottom: 1rem}\n.client-link {font-family: var(--font-mono);font-size: 0.85rem;color: var(--accent)}\n\n/* 2 编号列表 FAQ 展示 */\n.faq-list {margin-top: 2rem;display: flex;flex-direction: column;gap: 2rem}\n.faq-item {display: grid;grid-template-columns: 40px 1fr;gap: 1.5rem}\n.faq-number {font-family: var(--font-mono);color: var(--accent);font-weight: 700;font-size: 1.1rem}\n.faq-content h3 {color: var(--heading);font-size: 1.15rem;margin-bottom: 0.5rem}\n.faq-content p {font-size: 0.95rem}\n\nfooter {padding: 3rem 0;text-align: center;font-family: var(--font-mono);font-size: 0.85rem;color: var(--text);opacity: 0.7}\n</style><header class=\"top-nav\">\n  <div class=\"brand-sig\">Eueu加速全世界</div>\n  <nav>\n    <a href=\"#specs\">技术规范</a>\n    <a href=\"#plans\">服务套餐</a>\n    <a href=\"#clients\">客户端</a>\n    <a href=\"#faq\">常见问题</a>\n  </nav>\n</header>\n\n<main>\n  <div class=\"hero-magazine\">\n    <div class=\"hero-main\">\n      <h1>Eueu加速全世界(Eueu)</h1>\n      <p>构建于石板灰底层逻辑之上的分布式网络路由优化系统。我们为追求高吞吐量与极低丢包率的专业场景提供精密调校的传输通道，确保跨区域数字资产访问的稳定性。</p>\n      <div class=\"hero-quote\">\n        “在复杂的网络拓扑中，确定性路径选择是维持高效率连接的核心前提。”\n      </div>\n    </div>\n    <div class=\"hero-sidebar\">\n      <h3>系统运行指标</h3>\n      <ul>\n        <li><span>核心协议</span> <span>TLS 1.3 / Custom</span></li>\n        <li><span>可用节点</span> <span>动态多线</span></li>\n        <li><span>延迟校准</span> <span>毫秒级</span></li>\n        <li><span>协议加密</span> <span>AES-256-GCM</span></li>\n      </ul>\n    </div>\n  </div>\n\n  <section id=\"specs\">\n    <h2>技术规范与架构说明</h2>\n    <p>Eueu 并非传统意义上的公开公共代理，而是一套经过多层封装与混淆优化的私有传输架构。系统依托全球骨干网中继节点，自动规避拥堵路段，为终端用户提供稳定、低延迟的专线级传输体验。</p>\n    <div class=\"specs-grid\">\n      <div class=\"spec-card\">\n        <h3>01 / 智能路由分流</h3>\n        <p>基于预设与自定义规则的访问分流机制，境内直连与境外加速精准隔离，保障本地业务与海外资源互不干扰。</p>\n      </div>\n      <div class=\"spec-card\">\n        <h3>02 / 动态多线冗余</h3>\n        <p>当主干线路遭遇波动时，系统内置的探测模块可在毫秒级内完成路径切换，确保数据传输链路不中断。</p>\n      </div>\n      <div class=\"spec-card\">\n        <h3>03 / 高强度传输加密</h3>\n        <p>全程采用现代密码学标准进行端到端会话加密，有效防止流量特征识别、中间人攻击及非授权深度包检测。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <h2>服务套餐与配置明细</h2>\n    <p>针对不同规模的个人与团队访问需求，我们提供阶梯式的流量配额与节点权限方案。</p>\n    <div class=\"plans-list\">\n      <div class=\"plan-row\">\n        <div class=\"plan-info\">\n          <h3>基础版</h3>\n          <div class=\"plan-price\">¥15/月</div>\n          <div class=\"plan-price-annual\">按年付仅需 ¥150/年</div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n        <a href=\"#plans\" class=\"plan-action\">选择配置</a>\n      </div>\n\n      <div class=\"plan-row featured\">\n        <div class=\"plan-info\">\n          <h3>旗舰版</h3>\n          <div class=\"plan-price\">¥35/月</div>\n          <div class=\"plan-price-annual\">按年付仅需 ¥350/年</div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n        <a href=\"#plans\" class=\"plan-action\">当前推荐</a>\n      </div>\n\n      <div class=\"plan-row\">\n        <div class=\"plan-info\">\n          <h3>团队版</h3>\n          <div class=\"plan-price\">¥85/月</div>\n          <div class=\"plan-price-annual\">按年付仅需 ¥850/年</div>\n        </div>\n        <ul class=\"plan-features\">\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n        <a href=\"#plans\" class=\"plan-action\">选择配置</a>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"clients\">\n    <h2>客户端兼容性与部署指引</h2>\n    <p>Eueu 适配主流操作系统平台。用户可根据实际终端环境选择对应的客户端软件，导入专用订阅链接即可完成配置。</p>\n    <div class=\"clients-grid\">\n      <div class=\"client-box\">\n        <h3>macOS</h3>\n        <p>推荐使用 Clash Verge Rev 或 sing-box 客户端，支持系统全局接管与规则分流。</p>\n        <a href=\"#\" class=\"client-link\">获取配置指南 →</a>\n      </div>\n      <div class=\"client-box\">\n        <h3>Windows</h3>\n        <p>全面兼容 Windows 10/11 现代运行环境，提供稳定的后台服务与开机自启支持。</p>\n        <a href=\"#\" class=\"client-link\">获取配置指南 →</a>\n      </div>\n      <div class=\"client-box\">\n        <h3>iOS</h3>\n        <p>可在 App Store 获取 Shadowrocket 或 Stash，扫描控制面板二维码快速导入节点。</p>\n        <a href=\"#\" class=\"client-link\">获取配置指南 →</a>\n      </div>\n      <div class=\"client-box\">\n        <h3>Android</h3>\n        <p>支持 v2rayNG 及 sing-box 客户端，低功耗后台挂载，保障连接常态在线。</p>\n        <a href=\"#\" class=\"client-link\">获取配置指南 →</a>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题与技术答疑</h2>\n    <p>以下为关于 Eueu 服务的系统性说明与标准应答。</p>\n    <div class=\"faq-list\">\n      <div class=\"faq-item\">\n        <div class=\"faq-number\">01</div>\n        <div class=\"faq-content\">\n          <h3>如何导入订阅链接至客户端？</h3>\n          <p>登录用户控制面板复制专属订阅地址，打开目标客户端程序，在“配置”或“订阅”模块中新增并粘贴该地址，执行更新即可同步全量节点列表。</p>\n        </div>\n      </div>\n      <div class=\"faq-item\">\n        <div class=\"faq-number\">02</div>\n        <div class=\"faq-content\">\n          <h3>套餐流量额度是怎样计算与重置的？</h3>\n          <p>所有套餐流量均采用自然月度周期进行计算。在每个账单周期的对应日期，系统会自动清空已用流量并重置为当前套餐的初始总额度，未用完的流量不结转至下一周期。</p>\n        </div>\n      </div>\n      <div class=\"faq-item\">\n        <div class=\"faq-number\">03</div>\n        <div class=\"faq-content\">\n          <h3>节点连接延迟较高或提示超时该如何处理？</h3>\n          <p>请首先检查本地网络环境与防火墙设置。若确认本地无异常，可在客户端内手动更新订阅以获取最新的可用节点IP列表，或切换至备用专线节点进行测试。</p>\n        </div>\n      </div>\n      <div class=\"faq-item\">\n        <div class=\"faq-number\">04</div>\n        <div class=\"faq-content\">\n          <h3>是否支持多台设备在不同网络下同时使用？</h3>\n          <p>支持。根据您所选择的套餐等级，系统允许指定数量的终端设备在不同网络环境下同时建立连接，各设备间配额共享且独立计费。</p>\n        </div>\n      </div>\n    </div>\n  </section>\n</main>\n\n<footer>\n  <p>© Eueu加速全世界(Eueu) System Documentation. All rights reserved.</p>\n</footer>",
+          "hash": "d83e6fc34f1c72353e82a13dfaa957aab7bb8ea7764d4b9e3abaae92c6bccad0",
+          "seo": {
+            "title": "Eueu加速全世界(Eueu) - 结构化网络数据传输与路由优化说明文档",
+            "keywords": "Eueu, Eueu加速全世界, 路由优化, 数据传输, 节点配置, 客户端说明",
+            "description": "Eueu加速全世界(Eueu) 提供冷静克制的专线网络连接与多端路由优化说明，为严谨的数字生活与跨域协作提供确定性路径。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "1386",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "7 石板灰配青色",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "huibi-cn.cn",
+    "host": "p-1887674a63.huibi-cn.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "4020fb8c00d6e17615316034c566a141ba591b7bd851d706510e99c56a4758ca",
+    "sitemap.xml": "3c57dad0b228a8de82e79688e4b3aa4f7d1fe39b00c114101fe130e8b1b96a10",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c25f8bba8b503fe9f316f3626dd0b591df285ea8d4a8f765fc8c1bf93726f42c",
+    "robots.txt": "e5178edfd81b40a30d7688ae6880e1b0624625c0a7e05afd575142202e68f6c4",
+    "d4ab3b9738d4f2ad90e24f4cbc632f68.txt": "cc60fbb3357b27627f5dc7e8f3766fbd385d6e7f4e699abcec17527e42080bea"
+  },
+  "revision": "e61851c6b4fb651b0c6a0c606f47af2c0b8ff8e970ecf21d59800047099f201a"
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-1887674a63.huibi-cn.cn/sitemap.xml
